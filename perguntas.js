@@ -32,7 +32,7 @@ criaCartao(
 
 criaCartao(
     'Games',
-    'Quantos mapas exieste no valorant',
+    'Quantos mapas existe no valorant',
     '12',
 )
 
